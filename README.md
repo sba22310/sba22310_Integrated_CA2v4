@@ -3,3 +3,4 @@ Integrated_ADA_BigData
 
 16/05/2023
 Hadoop and pyspark dataframe
+https://files.pushshift.io/twitter/greta_thunberg/
